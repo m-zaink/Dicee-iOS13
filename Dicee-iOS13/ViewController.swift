@@ -21,4 +21,3 @@ class ViewController: UIViewController {
         diceImage2.image = #imageLiteral(resourceName: "DiceSix")
     }
 }
-
